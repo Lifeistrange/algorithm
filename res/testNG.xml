@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="algorithm" parallel="false">
+    <test name="sort">
+        <packages>
+            <package name="com.lifeiscoding.algorithm.sort"/>
+        </packages>
+    </test>
+</suite>
