@@ -2,7 +2,7 @@ package com.lifeiscoding.algorithm.pq.maxpq;
 
 public interface IPQ<Key extends Comparable<Key>> {
 
-    public void Insert(Key v);
+    void insert(Key v);
 
     boolean isEmpty();
 
