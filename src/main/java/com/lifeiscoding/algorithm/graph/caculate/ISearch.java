@@ -1,4 +1,4 @@
-package com.lifeiscoding.algorithm.graph.search;
+package com.lifeiscoding.algorithm.graph.caculate;
 
 public interface ISearch {
     boolean marked(int v);

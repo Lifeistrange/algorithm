@@ -1,4 +1,4 @@
-package com.lifeiscoding.algorithm.graph.path;
+package com.lifeiscoding.algorithm.graph.caculate;
 
 import com.lifeiscoding.algorithm.graph.Graph;
 
